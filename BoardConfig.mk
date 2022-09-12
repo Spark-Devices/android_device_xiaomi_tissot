@@ -46,6 +46,9 @@ TARGET_SUPPORT_HAL1 := false
 # Power
 TARGET_TAP_TO_WAKE_NODE := "/proc/touchpanel/enable_dt2w"
 
+# Props
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
+
 # RIL
 ENABLE_VENDOR_RIL_SERVICE := true
 
