@@ -22,11 +22,5 @@
         "repository": "android_kernel_xiaomi_tissot",
         "target_path": "kernel/xiaomi/msm8953",
         "branch": "pyro"
-    },	
-    {
-        "remote": "github",
-        "repository": "Gabuters-Dev/gabuters-clang",
-        "target_path": "prebuilts/clang/host/linux-x86/gabuters-clang",
-        "branch": "master"
     }
 ]
